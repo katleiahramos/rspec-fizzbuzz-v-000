@@ -11,5 +11,4 @@ def fizzbuzz(int)
  #else
 end
 
-fizzbuzz(3) # => You should see a return of "Fizz"
-fizzbuzz()  # => You should get an ArgumentError
+
