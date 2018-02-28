@@ -9,7 +9,6 @@ def fizzbuzz(int)
     "Buzz"
   end
  #else
-
 end
 
 fizzbuzz(3) # => You should see a return of "Fizz"
